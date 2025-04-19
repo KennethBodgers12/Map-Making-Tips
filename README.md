@@ -1,2 +1,2 @@
 # Map-Making-Tips
-This is a place to put information for map making in Arma Reforger that may not published or lost
+Disclaimer - This is not the most efficient way to do this. If you want to minimise the risk of tombstoning your project. Use a paid terrain software.
